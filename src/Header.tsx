@@ -12,7 +12,7 @@ import MenuIcon from 'material-ui-icons/Menu';
 
 const styles = (theme: any) => ({
   root: {
-    marginTop: theme.spacing.unit * 3,
+    marginTop: 0,
     width: '100%',
   },
   flex: {
